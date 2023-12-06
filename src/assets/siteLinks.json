@@ -10,7 +10,7 @@
     "link": "https://pan.kierankihn.com/"
   },
   {
-    "icon": "MediaLibrary",
+    "icon": "Film",
     "name": "Emby",
     "link": "https://emby.kierankihn.com/"
   },
@@ -25,7 +25,7 @@
     "link": "https://mastodon.kierankihn.com/"
   },
   {
-    "icon": "Dashboard",
+    "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://dash.kierankihn.com/"
   }
